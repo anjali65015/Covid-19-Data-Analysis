@@ -1,3 +1,5 @@
+<img width="1433" height="827" alt="dashboard" src="https://github.com/user-attachments/assets/e4cc9db0-a821-4a74-a566-1b54376916e7" />
+<img width="1433" height="827" alt="dashboard" src="https://github.com/user-attachments/assets/263b0a66-8f40-480d-9e52-97b9d7b17a05" />
 # COVID-19 Data Analysis
 
 This repository contains a data analysis project focused on COVID-19 trends and vaccination insights in India. The analysis confirms the significant impact of vaccination campaigns on reducing mortality and improving recovery rates.
