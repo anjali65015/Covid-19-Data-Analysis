@@ -1,5 +1,4 @@
-<img width="1433" height="827" alt="dashboard" src="https://github.com/user-attachments/assets/e4cc9db0-a821-4a74-a566-1b54376916e7" />
-<img width="1433" height="827" alt="dashboard" src="https://github.com/user-attachments/assets/263b0a66-8f40-480d-9e52-97b9d7b17a05" />
+
 # COVID-19 Data Analysis
 
 This repository contains a data analysis project focused on COVID-19 trends and vaccination insights in India. The analysis confirms the significant impact of vaccination campaigns on reducing mortality and improving recovery rates.
@@ -35,3 +34,60 @@ This project uses two primary datasets with key information about the pandemic i
 ##  Public Health Implications
 
 This analysis highlights the critical role of mass immunization in pandemic control. The vaccination rollout clearly **flattened the curve**, leading to a reduction in both case severity and mortality.The gender and age imbalances in vaccination data underscore the need for more targeted public health campaigns for specific populations.
+# **COVID-19 Dashboard**
+
+This project presents a detailed visualization of global **COVID-19 statistics**, including confirmed cases, recoveries, deaths, and total testing by country.
+
+---
+
+## **Overview**
+
+This dashboard visually represents COVID-19 data using multiple analytical charts and maps to show the global spread and impact of the pandemic.
+
+---
+
+## **Dashboard Components**
+
+### **Top 10 Confirmed Countries**
+- Bar chart showing countries with the highest confirmed COVID-19 cases.
+
+### **Global Cases Map**
+- World map displaying the geographical spread and intensity of confirmed cases.
+
+### **Top 10 Recoveries**
+- Bubble chart illustrating countries with the highest recovery numbers.
+
+### **Total Deaths vs Total Recoveries**
+- Comparison chart showing the relationship between recoveries and deaths per country.
+
+### **Top 10 Death Cases**
+- Tree map of countries reporting the highest number of total deaths.
+
+### **Confirmed vs Death Correlation**
+- Scatter plot analyzing the relationship between total confirmed cases and deaths.
+
+### **Total Tests Conducted**
+- Horizontal bar chart displaying the number of COVID-19 tests conducted across top countries.
+
+---
+
+## **Key Insights**
+
+- **USA, India, and Brazil** have the highest total confirmed cases and testing numbers.  
+- Higher testing levels generally correspond to better recovery outcomes.  
+- The **USA** records the largest number of deaths globally.  
+- There are clear regional disparities in testing capacity and recovery efficiency.
+
+---
+
+## **Tools and Technologies Used**
+
+- **Programming Language:** Python  
+- **Libraries:** Plotly, Matplotlib, Pandas  
+- **Data Sources:**  
+  - kaggle COVID-19 Dataset  
+    
+
+<img width="1433" height="827" alt="dashboard" src="https://github.com/user-attachments/assets/7b4c7bbe-6c2e-4b88-934a-70401b159e2a" />
+
+
