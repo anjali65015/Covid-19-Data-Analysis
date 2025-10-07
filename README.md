@@ -45,6 +45,7 @@ This project presents a detailed visualization of global **COVID-19 statistics**
 This dashboard visually represents COVID-19 data using multiple analytical charts and maps to show the global spread and impact of the pandemic.
 
 ---
+<img width="1433" height="827" alt="dashboard" src="https://github.com/user-attachments/assets/7b4c7bbe-6c2e-4b88-934a-70401b159e2a" />
 
 ## **Dashboard Components**
 
